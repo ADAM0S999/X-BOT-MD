@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD.git"
+    "url": "git+https://github.com/ADAM0S999/X-BOT-MD.git"
   },
   "keywords": [
     "bot",
     "whatsapp"
   ],
-  "author": "ASWIN SPARKY",
+  "author": "ADAM",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.6",
